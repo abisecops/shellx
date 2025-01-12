@@ -1,3 +1,2 @@
 # shellx
-linux shell using sshx
-a
+This is linux shell using sshx
